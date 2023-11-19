@@ -1,0 +1,10 @@
+{
+  "type": "tutorialmod:gem_polishing",
+  "item": {
+    "item": "tutorialmod:raw_sapphire"
+  },
+  "output": {
+    "count": 3,
+    "item": "tutorialmod:sapphire"
+  }
+}
